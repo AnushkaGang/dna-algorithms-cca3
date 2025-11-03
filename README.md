@@ -1,6 +1,9 @@
 # DNA Algorithms — Assignment 1 (CCA3)
 
-This repository contains the full implementation of Assignment 1:
+Name-Anushka Gangwar
+prn-1032233324
+TY BTECH CSE (Panel-A)
+Roll no 46
 
 **DNA Fundamentals and Basic Tools (CCA3)**
 
